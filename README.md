@@ -1,3 +1,3 @@
 # мой первый репозиторий
 
-dadd text on computer
+add text on computer
